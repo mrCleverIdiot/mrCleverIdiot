@@ -7,6 +7,28 @@
   </samp>
 </p>
 
+### Languages
+
+![Go](https://img.shields.io/badge/-Go-000?&logo=Go)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Php](https://img.shields.io/badge/-Php-000?&logo=Php)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![MySql](https://img.shields.io/badge/-MySql-000?&logo=MySql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
+![Shell](https://img.shields.io/badge/-Shell-000?&logo=Shell)
+
+
+
+### Technologies
+
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
+![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
+![Gin](https://img.shields.io/badge/-Gin-000?&logo=Gin)
+
 ### Connect with me :smiley:
 
 <a href="https://www.linkedin.com/in/vikastejani/">
@@ -14,6 +36,6 @@
 </a>
 <br/><br/>
 <p align="center">
-<!--<img alt="spotify" width="235px" src="https://spotify-github-profile.vercel.app/api/view?uid=315az42hka7jwtwpck3polrmtvwa&cover_image=false" /> -->
+  - <i>mrCleverIdiot</i>
 </p>
 <br/><br/>
