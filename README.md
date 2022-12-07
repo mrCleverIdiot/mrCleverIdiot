@@ -3,7 +3,7 @@
   <!-- <img src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.gif" width=100>
   <br><br> -->
   <samp>
-    I'm Vikas</a> currently an Engineer at <a href="https://bharatpe.com/">@BharatPe  </a> and aspiring software developer:computer:. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology/DevOps. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
+    I'm Vikas</a> currently an Engineer and aspiring software developer:computer:. Interested in working on backend, API's, Databases and currently learning about Distributed Ledger Technology/DevOps. Occasionaly I do participate in Hackathons :bulb: and I have a love/hate relationship with Programming :neutral_face:
   </samp>
 </p>
 
