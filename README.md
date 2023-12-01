@@ -39,3 +39,5 @@
   - <i>mrCleverIdiot</i>
 </p>
 <br/><br/>
+
+![Vikas's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrCleverIdiot&show_icons=true&theme=radical)
